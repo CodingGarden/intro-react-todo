@@ -12,10 +12,10 @@
 * [x] Create an array property on our state for todos
 * [x] Add a new todo into the todos array, with done: false
 * [x] Show the todos in a list
-* [ ] Check done on a todo to mark it as done
-  * [ ] Show a line through the todo text
-* [ ] Add a button to remove a todo
-* [ ] Add a button to mark all todos as done
+* [x] Check done on a todo to mark it as done
+  * [x] Show a line through the todo text
+* [x] Add a button to remove a todo
+* [x] Add a button to mark all todos as done
 * [ ] What are components?
 * [ ] What are props?
 * [ ] Create a TodoList Component

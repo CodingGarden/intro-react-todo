@@ -3,3 +3,12 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+input[type="checkbox"] {
+  display: inline;
+  width: auto;
+}
+
+.done {
+  text-decoration: line-through;
+}
